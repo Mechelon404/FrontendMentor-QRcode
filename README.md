@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mechelon404/FrontendMentor-QRcode)
-- Live Site URL: [Add live site URL here](https://mechelon404.github.io/FrontendMentor-QRcode/)
+- Solution URL: [LINK](https://github.com/Mechelon404/FrontendMentor-QRcode)
+- Live Site URL: [LINK](https://mechelon404.github.io/FrontendMentor-QRcode/)
 
 ## My process
 
